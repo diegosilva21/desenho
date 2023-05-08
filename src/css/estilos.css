@@ -137,7 +137,8 @@ body {
 
 .rodape {
     text-align: center;
-    margin-top: 290px;
+    margin-top: 300px;
+}
 
 @media (max-width: 620px) {
     .desenho-animado-slider {
@@ -146,9 +147,9 @@ body {
     }
 
     .btn-seta {
-        width: 20px;
+        width: 30px;
         height: 20px;
-        padding: 20px;
+        padding: 25px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -162,4 +163,6 @@ body {
         max-height: 230px;
     }
 
-}
+    .rodape {
+        margin-top: 50px;
+    }
