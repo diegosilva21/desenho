@@ -135,11 +135,9 @@ body {
     overflow-y: auto;
 }
 
-.rodape p {
-    position: absolute;
-    bottom: -320px;
-    right: 12px;
-}
+.rodape {
+    text-align: center;
+    margin-top: 290px;
 
 @media (max-width: 620px) {
     .desenho-animado-slider {
@@ -162,6 +160,10 @@ body {
 
     .cartao .imagem-desenho-animado {
         max-height: 230px;
+    }
+    
+    .rodape {
+        margin-top: 70px;
     }
 
 }
