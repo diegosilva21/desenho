@@ -139,7 +139,7 @@ body {
     text-align: center;
     margin-top: 290px;
 
-@media (max-width: 480px) {
+@media (max-width: 620px) {
     .desenho-animado-slider {
         padding: 0 15px;
         gap: 10px;
@@ -160,10 +160,6 @@ body {
 
     .cartao .imagem-desenho-animado {
         max-height: 230px;
-    }
-
-    .rodape {
-        margin-top: 70px;
     }
 
 }
