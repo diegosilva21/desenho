@@ -135,9 +135,10 @@ body {
     overflow-y: auto;
 }
 
-.rodape {
-    display: flex;
-    justify-content: center;
+.rodape p {
+    position: absolute;
+    bottom: -320px;
+    right: 12px;
 }
 
 @media (max-width: 620px) {
