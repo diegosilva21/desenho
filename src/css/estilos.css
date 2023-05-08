@@ -139,7 +139,7 @@ body {
     text-align: center;
     margin-top: 290px;
 
-@media (max-width: 1024px) {
+@media (max-width: 480px) {
     .desenho-animado-slider {
         padding: 0 15px;
         gap: 10px;
